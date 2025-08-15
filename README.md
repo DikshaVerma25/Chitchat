@@ -1,4 +1,4 @@
-# 🌍 LingoLoop (Working Title)
+# 🌍 Chitchat (Working Title)
 
 A **speech-focused language learning app** that helps users learn new words and practice speaking through daily conversations.  
 The app introduces **10 new words each day**, then engages the user in a **guided spoken conversation** using both the new and previously learned vocabulary.  
